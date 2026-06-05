@@ -1,10 +1,5 @@
 # E-Commerce Business Analytics SQL Project
 
-## Author
-Syamkumar Kummari
-
----
-
 ## Project Overview
 
 This project focuses on analyzing E-Commerce business data using SQL to solve real-world business problems related to:
